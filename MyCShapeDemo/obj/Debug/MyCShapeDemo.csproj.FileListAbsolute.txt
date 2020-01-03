@@ -1,0 +1,7 @@
+D:\works\cshape\MyCShapeDemo\MyCShapeDemo\bin\Debug\MyCShapeDemo.exe.config
+D:\works\cshape\MyCShapeDemo\MyCShapeDemo\bin\Debug\MyCShapeDemo.exe
+D:\works\cshape\MyCShapeDemo\MyCShapeDemo\bin\Debug\MyCShapeDemo.pdb
+D:\works\cshape\MyCShapeDemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.csprojAssemblyReference.cache
+D:\works\cshape\MyCShapeDemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.csproj.CoreCompileInputs.cache
+D:\works\cshape\MyCShapeDemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.exe
+D:\works\cshape\MyCShapeDemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.pdb
