@@ -5,3 +5,10 @@ D:\works\cshape\MyCShapeDemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.csprojAssemblyR
 D:\works\cshape\MyCShapeDemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.csproj.CoreCompileInputs.cache
 D:\works\cshape\MyCShapeDemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.exe
 D:\works\cshape\MyCShapeDemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.pdb
+C:\Users\Administrator\Desktop\gaga\mycshapedemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\gaga\mycshapedemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\gaga\mycshapedemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.exe
+C:\Users\Administrator\Desktop\gaga\mycshapedemo\MyCShapeDemo\obj\Debug\MyCShapeDemo.pdb
+C:\Users\Administrator\Desktop\gaga\mycshapedemo\MyCShapeDemo\bin\Debug\MyCShapeDemo.exe.config
+C:\Users\Administrator\Desktop\gaga\mycshapedemo\MyCShapeDemo\bin\Debug\MyCShapeDemo.exe
+C:\Users\Administrator\Desktop\gaga\mycshapedemo\MyCShapeDemo\bin\Debug\MyCShapeDemo.pdb
